@@ -1,2 +1,2 @@
 # examplewebsite
-An example website I'm testing as my first project on GitHub
+An example website I'm testing as my first project on GitHub.
